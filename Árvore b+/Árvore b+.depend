@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1570225807 source:c:\users\gig9\desktop\Árvore b+\main.cpp
+	<iostream>
+	<clocale>
+
+1570272201 source:c:\users\gig9\desktop\engcomp\p8\banco de dados 2\Árvore b+\main.cpp
+	<iostream>
+	<clocale>
+
+1571884114 source:c:\users\gig9\desktop\engcomp\p8\banco de dados 2\trabalho b+\Árvore b+ implementação na raça\main.cpp
+	<iostream>
+	<clocale>
+	<math.h>
+
+1575588653 source:c:\users\gig9\desktop\engcomp\p8\banco de dados 2\trabalho implementação de Índice\Árvore b+\main.cpp
+	<iostream>
+	<clocale>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+

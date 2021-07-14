@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572872180 source:c:\users\gig9\desktop\hash extensivel\main.cpp
+	<iostream>
+	<clocale>
+	<math.h>
+	<list>
+
+1573607197 source:c:\users\gig9\desktop\engcomp\p8\banco de dados 2\hash extensivel\main.cpp
+	<iostream>
+	<clocale>
+	<math.h>
+	<list>
+
+1575588783 source:c:\users\gig9\desktop\engcomp\p8\banco de dados 2\trabalho implementação de Índice\hash extensivel\main.cpp
+	<iostream>
+	<clocale>
+	<math.h>
+	<list>
+	<stdlib.h>
+	<time.h>
+
